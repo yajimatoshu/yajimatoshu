@@ -1,4 +1,7 @@
 ### Hi there 👋
+ラーメン好きです。<br>
+最近代謝が落ちてる気がします。
+
 <p align="left"> 
   <a href="https://github.com/yajimatoshu/yajimatoshu/">
     <img src="https://komarev.com/ghpvc/?username=yajimatoshu&color=lightgrey" alt="yajimatoshu" />
