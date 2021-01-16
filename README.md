@@ -1,16 +1,12 @@
 ### Hi there 👋
-
-<!--
-**yajimatoshu/yajimatoshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://github.com/yajimatoshu/yajimatoshu/">
+    <img src="https://komarev.com/ghpvc/?username=yajimatoshu&color=lightgrey" alt="yajimatoshu" />
+  </a>
+  <a href="http://twitter.com/yajima_toshu">
+    <img height="20" src="https://img.shields.io/twitter/follow/yajima_toshu?label=Twitter&logo=twitter&style=flat&color=blue" />
+  </a>
+    <a href="http://qiita.com/yajima_toshu">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yajima_toshu/posts.svg" />
+  </a>
+</p>
